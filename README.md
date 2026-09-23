@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello and welcome 👋
 
+##### I am a current student at the University of California, Santa Barbara, studying a Master's in Environmental Data Science at the Bren School. I am particularly interested in geospatial analysis and applying my skills to disaster response. 
+
+##### I completed my undergraduate program at the University of Dundee in Dundee, Scotland in 2026, graduating with a Bachelor of Science (Honours) in 2026. 
+
+##### A fun fact is that I have a horse who I call Potato, and he will also be living at UCSB (just not in the uni halls!). 
 <!--
 **eowen19/eowen19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
